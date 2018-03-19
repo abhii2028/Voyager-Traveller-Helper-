@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Voyager</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="Hotel">Hotel</string>
+    <string name="Scheduler">Scheduler</string>
+    <string name="General">General</string>
+    <string name="Translator">Translator</string>
+    <string name="Map">Map</string>
+    <string name="News">Local News</string>
+</resources>

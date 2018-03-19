@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/hotel"
+        android:icon="@drawable/hotel"
+        android:title="@string/Hotel" />
+
+    <item
+        android:id="@+id/scheduler"
+        android:icon="@drawable/scheduler"
+        android:title="@string/Scheduler" />
+
+    <item
+        android:id="@+id/general"
+        android:icon="@drawable/general"
+        android:title="@string/General" />
+
+    <item
+        android:id="@+id/translator"
+        android:icon="@drawable/trans"
+        android:title="@string/Translator" />
+
+    <item
+        android:id="@+id/news"
+        android:icon="@drawable/map"
+        android:title="@string/News" />
+</menu>
